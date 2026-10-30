@@ -1,8 +1,9 @@
-## Hi, I'm Riccardo! 👋
 
-🎓 **PhD Student in Engineering Science | Biomedical Engineer**
+# Hi, I'm Riccardo! 👋
 
-🧠 Researching brain dynamics, MEG/EEG signal processing, and Hidden Markov Models at **ITAB – MAMBO Lab**, University G. d'Annunzio.
+🧠 Interested in understanding brain dynamics through MEG/EEG signal analysis and computational modeling.
+
+🔬 Currently working on brain-state estimation using Hidden Markov Models at **ITAB – MAMBO Lab**.
 
 💻 **Tools:** MATLAB · Python · Git
 
